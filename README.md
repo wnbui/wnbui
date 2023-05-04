@@ -22,7 +22,7 @@
   
 I am an aspiring Software Engineer from Southern California
   - 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/wnbui/))
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)]([https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg])
   
 ---
 
