@@ -42,9 +42,6 @@ I am an aspiring Software Engineer from Southern California
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wnbui&theme=tokyonight" />
 </a>
-<a href="https://git.io/streak-stats">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=wnbui&theme=dark&background=000000" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wnbui&theme=tokyonight&layout=compact" />
 </a>
