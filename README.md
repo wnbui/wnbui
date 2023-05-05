@@ -21,8 +21,6 @@
 ### About Me:
   
 I am an aspiring Software Engineer from Southern California
-  - 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-wnbui-blue?style=flat&logo=Linkedin&logoColor=white)]([https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg])
   
 ---
 
