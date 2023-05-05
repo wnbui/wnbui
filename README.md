@@ -37,3 +37,7 @@ I am an aspiring Software Engineer from Southern California
   <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 
+---
+
+### :fire: My Stats :
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnbui)](https://github.com/anuraghazra/github-readme-stats)
