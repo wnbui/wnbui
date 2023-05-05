@@ -40,4 +40,4 @@ I am an aspiring Software Engineer from Southern California
 ---
 
 ### :fire: My Stats :
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnbui)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnbui&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
